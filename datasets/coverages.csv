@@ -1,0 +1,178 @@
+CoverID,CoverCode,RenewalType,Room,Participation,ProductCategory,PremiumMode,ProductDistribution
+47,Gro-0004761496,NA,NA,0,Group Medical,Periodic,Group
+194,Gro-0019461498,NA,NA,0,Group,Periodic,Group
+197,Gro-0019741465,NA,NA,0,Health,Periodic,Group
+199,Gro-0019961705,NA,C,0,Health,Periodic,Group
+229,Gro-0022941449,NA,NA,0,Health,Periodic,Group
+231,Gro-0023161749,NA,C2,0,Health,Periodic,Group
+341,Gro-0034161771,NA,C,0,Health,Periodic,Group
+348,Gro-0034861778,NA,C2,0,Health,Periodic,Group
+2024,Gro-0202441600,NA,NA,0,Group,Periodic,Group
+2027,Gro-0202761500,Yearly Renewable,NA,0,Group,Periodic,Group
+2353,Gro-0235361501,Yearly Renewable,NA,0,Group,Periodic,Group
+2377,Gro-0237761502,Yearly Renewable,NA,0,Group,Periodic,Group
+2378,Gro-0237861713,NA,NA,0,Group,Periodic,Group
+2385,Gro-0238541599,NA,NA,0,Group,Periodic,Group
+2386,Gro-0238661499,Yearly Renewable,NA,0,Group,Periodic,Group
+2433,Gro-0243361802,NA,NA,0,Group,Periodic,Group
+2464,Gro-0246441609,NA,NA,0,Group,Periodic,Group
+2465,Gro-0246551309,NA,NA,0,Group,Periodic,Group
+2468,Gro-0246861409,Yearly Renewable,NA,0,Group,Periodic,Group
+2469,Gro-0246961509,Yearly Renewable,NA,0,Group,Periodic,Group
+2484,Gro-0248461510,Yearly Renewable,NA,0,Group,Periodic,Group
+2494,Gro-0249461514,Yearly Renewable,NA,0,Group,Periodic,Group
+110,Hea-0011031495,Whole Life,NA,70,Hospitalisation riders,Periodic,Health
+118,Hea-0011831497,Whole Life,A,80,Hospitalisation riders,Periodic,Health
+119,Hea-0011931498,Whole Life,A,70,Hospitalisation riders,Periodic,Health
+120,Hea-0012031499,Whole Life,B,80,Hospitalisation riders,Periodic,Health
+121,Hea-0012131500,Whole Life,B,65,Hospitalisation riders,Periodic,Health
+122,Hea-0012231501,Whole Life,NA,70,Hospitalisation riders,Periodic,Health
+123,Hea-0012331502,Whole Life,A,70,Hospitalisation riders,Periodic,Health
+159,Hea-0015931503,Whole Life,A,100,Hospitalisation riders,Periodic,Health
+160,Hea-0016031504,Whole Life,B,100,Hospitalisation riders,Periodic,Health
+237,Hea-0023731508,Whole Life,A,70,Hospitalisation riders,Periodic,Health
+238,Hea-0023831509,Whole Life,B,80,Hospitalisation riders,Periodic,Health
+239,Hea-0023931510,Whole Life,B,65,Hospitalisation riders,Periodic,Health
+241,Hea-0024131513,Whole Life,A,100,Hospitalisation riders,Periodic,Health
+242,Hea-0024231514,Whole Life,B,100,Hospitalisation riders,Periodic,Health
+269,Hea-0026931518,Yearly Renewable,A,70,Hospitalisation riders,Periodic,Health
+270,Hea-0027031523,Yearly Renewable,A,100,Hospitalisation riders,Periodic,Health
+271,Hea-0027131524,Yearly Renewable,B,100,Hospitalisation riders,Periodic,Health
+272,Hea-0027231520,Yearly Renewable,B,65,Hospitalisation riders,Periodic,Health
+273,Hea-0027331521,Whole Life,A,100,Hospitalisation riders,Periodic,Health
+274,Hea-0027431522,Whole Life,B,100,Hospitalisation riders,Periodic,Health
+275,Hea-0027531529,Yearly Renewable,B,80,Hospitalisation riders,Periodic,Health
+277,Hea-0027731532,Yearly Renewable,A,70,Hospitalisation riders,Periodic,Health
+279,Hea-0027931538,Yearly Renewable,A,70,Hospitalisation riders,Periodic,Health
+280,Hea-0028031540,Yearly Renewable,B,65,Hospitalisation riders,Periodic,Health
+281,Hea-0028131543,Yearly Renewable,A,100,Hospitalisation riders,Periodic,Health
+282,Hea-0028231544,Yearly Renewable,B,100,Hospitalisation riders,Periodic,Health
+294,Hea-0029411425,NA,NA,0,Basic Life,Periodic,Health
+323,Hea-0032331545,Yearly Renewable,NA,0,Health,Periodic,Health
+326,Hea-0032631547,Yearly Renewable,A,100,Hospitalisation riders,Periodic,Health
+327,Hea-0032731548,Yearly Renewable,B,100,Hospitalisation riders,Periodic,Health
+330,Hea-0033031549,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+335,Hea-0033531553,Yearly Renewable,NA,65,Hospitalisation riders,Periodic,Health
+380,Hea-0038031559,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+381,Hea-0038131561,Yearly Renewable,A,70,Hospitalisation riders,Periodic,Health
+382,Hea-0038231557,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+383,Hea-0038331558,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+402,Hea-0040231562,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+403,Hea-0040331563,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+405,Hea-0040531565,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+416,Hea-0041631567,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+2228,Hea-0222831999,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+2229,Hea-0222932000,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+2246,Hea-0224631569,Yearly Renewable,A,65,Hospitalisation riders,Periodic,Health
+2247,Hea-0224731570,Yearly Renewable,A,65,Hospitalisation riders,Periodic,Health
+2248,Hea-0224831571,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+2249,Hea-0224931572,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+2250,Hea-0225031573,Yearly Renewable,A,100,Hospitalisation riders,Periodic,Health
+2251,Hea-0225131574,Yearly Renewable,B,100,Hospitalisation riders,Periodic,Health
+2252,Hea-0225231575,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+2253,Hea-0225331576,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+2254,Hea-0225431577,Yearly Renewable,A,65,Hospitalisation riders,Periodic,Health
+2255,Hea-0225531578,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+2256,Hea-0225631579,Yearly Renewable,A,100,Hospitalisation riders,Periodic,Health
+2257,Hea-0225731580,Yearly Renewable,B,100,Hospitalisation riders,Periodic,Health
+2262,Hea-0226231581,Yearly Renewable,A,65,Hospitalisation riders,Periodic,Health
+2263,Hea-0226331582,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+2264,Hea-0226431583,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+2265,Hea-0226531584,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+2266,Hea-0226631585,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+2267,Hea-0226731586,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+2389,Hea-0238932004,Yearly Renewable,B,0,Hospitalisation riders,Periodic,Health
+2403,Hea-0240331587,NA,NA,0,Non hospitalisation riders,Periodic,Health
+4,Oth-0000414296,NA,NA,0,Non hospitalisation riders,Periodic,Other  Life
+5,Oth-0000531396,NA,NA,70,Hospitalisation riders,Periodic,Other  Life
+23,Oth-0002341397,NA,NA,0,Life Consumer,Periodic,Other  Life
+24,Oth-0002444297,NA,NA,0,Life Consumer,Periodic,Other  Life
+25,Oth-0002551696,NA,NA,0,Life Consumer,Periodic,Other  Life
+32,Oth-0003241402,NA,NA,0,Life Consumer,Periodic,Other  Life
+33,Oth-0003344302,NA,NA,0,Life Consumer,Periodic,Other  Life
+37,Oth-0003741404,NA,NA,0,Life Consumer,Periodic,Other  Life
+42,Oth-0004241405,NA,NA,0,Life Consumer,Periodic,Other  Life
+48,Oth-0004813496,NA,NA,0,Non hospitalisation riders,Periodic,Other  Life
+49,Oth-0004913596,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+50,Oth-0005021296,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+51,Oth-0005121396,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+69,Oth-0006944304,NA,NA,0,Life Consumer,Periodic,Other  Life
+71,Oth-0007131296,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+73,Oth-0007331397,NA,NA,70,Hospitalisation riders,Periodic,Other  Life
+74,Oth-0007444305,NA,NA,0,Life Consumer,Periodic,Other  Life
+79,Oth-0007911397,NA,NA,0,Basic Life,Periodic,Other  Life
+112,Oth-0011231695,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+128,Oth-0012811398,NA,NA,0,Basic Life,Periodic,Other  Life
+139,Oth-0013941436,NA,NA,0,Life Consumer,Periodic,Other  Life
+140,Oth-0014044336,NA,NA,0,Life Consumer,Periodic,Other  Life
+155,Oth-0015531398,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+156,Oth-0015631399,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+163,Oth-0016331400,NA,NA,70,Hospitalisation riders,Periodic,Other  Life
+164,Oth-0016431401,NA,NA,70,Hospitalisation riders,Periodic,Other  Life
+170,Oth-0017031696,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+171,Oth-0017131697,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+186,Oth-0018613497,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+187,Oth-0018713597,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+191,Oth-0019141463,NA,NA,0,Life Consumer,Periodic,Other  Life
+192,Oth-0019244363,NA,NA,0,Life Consumer,Periodic,Other  Life
+212,Oth-0021221298,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+213,Oth-0021321397,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+214,Oth-0021421496,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+215,Oth-0021521597,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+283,Oth-0028331705,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+284,Oth-0028431706,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+285,Oth-0028531707,NA,NA,85,Non hospitalisation riders,Periodic,Other  Life
+286,Oth-0028631297,NA,NA,0,Non hospitalisation riders,Periodic,Other  Life
+287,Oth-0028731406,NA,NA,65,Hospitalisation riders,Periodic,Other  Life
+288,Oth-0028831407,NA,NA,65,Hospitalisation riders,Periodic,Other  Life
+293,Oth-0029311427,NA,NA,0,Basic Life,Periodic,Other  Life
+310,Oth-0031011428,NA,NA,0,Basic Life,Periodic,Other  Life
+313,Oth-0031331708,NA,C1,0,Non hospitalisation riders,Periodic,Other  Life
+319,Oth-0031911430,NA,NA,0,Basic Life,Periodic,Other  Life
+321,Oth-0032121300,NA,NA,0,Non hospitalisation riders,Periodic,Other  Life
+324,Oth-0032413296,NA,NA,0,Non hospitalisation riders,Periodic,Other  Life
+325,Oth-0032513598,NA,NA,0,Non hospitalisation riders,Periodic,Other  Life
+340,Oth-0034031298,NA,NA,0,Non hospitalisation riders,Periodic,Other  Life
+349,Oth-0034921299,NA,NA,0,Non hospitalisation riders,Periodic,Other  Life
+350,Oth-0035021398,NA,NA,0,Non hospitalisation riders,Periodic,Other  Life
+351,Oth-0035121598,NA,NA,0,Non hospitalisation riders,Periodic,Other  Life
+352,Oth-0035221497,NA,NA,0,Non hospitalisation riders,Periodic,Other  Life
+369,Oth-0036931709,NA,C,0,Non hospitalisation riders,Periodic,Other  Life
+370,Oth-0037031710,NA,NA,0,Non hospitalisation riders,Periodic,Other  Life
+371,Oth-0037131711,NA,NA,0,Non hospitalisation riders,Periodic,Other  Life
+372,Oth-0037231712,NA,NA,0,Non hospitalisation riders,Periodic,Other  Life
+389,Oth-0038941604,NA,NA,0,Life Consumer,Periodic,Other  Life
+391,Oth-0039144604,NA,NA,0,Life Consumer,Periodic,Other  Life
+1419,Oth-0141931408,NA,NA,0,Hospitalisation riders,Periodic,Other  Life
+40,Tra-0004011496,NA,NA,0,Basic Life,Periodic,Traditional Savings-Periodic Premium
+55,Tra-0005511497,NA,NA,0,Basic Life,Periodic,Traditional Savings-Periodic Premium
+56,Tra-0005611498,NA,NA,0,Basic Life,Periodic,Traditional Savings-Periodic Premium
+57,Tra-0005711801,NA,NA,0,Individual Life regular premium,Periodic,Traditional Savings-Periodic Premium
+80,Tra-0008011597,NA,NA,0,Basic Life,Periodic,Traditional Savings-Periodic Premium
+81,Tra-0008111802,NA,NA,0,Basic Life,Periodic,Traditional Savings-Periodic Premium
+91,Tra-0009112397,NA,NA,85,Non hospitalisation riders,Periodic,Traditional Savings-Periodic Premium
+108,Tra-0010811806,NA,NA,0,Basic Life,Periodic,Traditional Savings-Periodic Premium
+138,Tra-0013811602,NA,NA,0,Basic Life,Periodic,Traditional Savings-Periodic Premium
+141,Tra-0014111812,NA,NA,0,Individual Life regular premium,Periodic,Traditional Savings-Periodic Premium
+201,Tra-0020111817,NA,NA,0,Basic Life,Periodic,Traditional Savings-Periodic Premium
+228,Tra-0022812399,NA,NA,0,Capital Accumulation,Periodic,Traditional Savings-Periodic Premium
+296,Tra-0029611528,NA,NA,0,Basic Life,Periodic,Traditional Savings-Periodic Premium
+303,Tra-0030311833,NA,NA,0,Capital Accumulation,Periodic,Traditional Savings-Periodic Premium
+393,Tra-0039311734,NA,NA,0,Capital Accumulation,Periodic,Traditional Savings-Periodic Premium
+2017,Tra-0201711836,NA,NA,0,Basic Life,Periodic,Traditional Savings-Periodic Premium
+97,Tra-0009711805,NA,NA,0,Capital Accumulation,Single,Traditional Savings-Single Premium
+196,Tra-0019611816,NA,NA,0,Capital Accumulation,Single,Traditional Savings-Single Premium
+236,Tra-0023611819,NA,NA,0,Capital Accumulation,Single,Traditional Savings-Single Premium
+259,Tra-0025911700,NA,NA,0,Capital Accumulation,Single,Traditional Savings-Single Premium
+278,Tra-0027811703,NA,NA,0,Capital Accumulation,Single,Traditional Savings-Single Premium
+301,Tra-0030111733,NA,NA,0,Capital Accumulation,Single,Traditional Savings-Single Premium
+306,Tra-0030611829,NA,NA,0,Capital Accumulation,Single,Traditional Savings-Single Premium
+409,Tra-0040911736,NA,NA,0,Capital Accumulation,Single,Traditional Savings-Single Premium
+2014,Tra-0201411737,NA,NA,0,Capital Accumulation,Single,Traditional Savings-Single Premium
+2258,Tra-0225811838,NA,NA,0,Capital Accumulation,Single,Traditional Savings-Single Premium
+2365,Tra-0236511740,NA,NA,0,Capital Accumulation,Single,Traditional Savings-Single Premium
+113,Uni-0011371298,NA,NA,0,Unit linked,Periodic,Unit Linked(Single & Periodic Premium)
+331,Uni-0033171323,NA,NA,0,Unit linked,Single,Unit Linked(Single & Periodic Premium)
+332,Uni-0033211629,NA,NA,0,Basic Life,Single,Unit Linked(Single & Periodic Premium)
+387,Uni-0038711631,NA,NA,0,Basic Life,Single,Unit Linked(Single & Periodic Premium)
+388,Uni-0038871328,NA,NA,0,Unit linked,Single,Unit Linked(Single & Periodic Premium)
