@@ -1,0 +1,53 @@
+[
+
+	{
+		"p_source_url": "princeabdul99/insurance_claims/refs/heads/main/datasets/brokers.csv",
+		"p_bronze_folder": "Brokers",
+		"p_bronze_file": "brokers.csv"
+	},
+	{
+		"p_source_url": "princeabdul99/insurance_claims/refs/heads/main/datasets/claims_announcement.csv",
+		"p_bronze_folder": "Announcements",
+		"p_bronze_file": "claims_announcement.csv"
+	},
+	{
+		"p_source_url": "princeabdul99/insurance_claims/refs/heads/main/datasets/claims_payment.csv",
+		"p_bronze_folder": "payments",
+		"p_bronze_file": "claims_payment.csv"
+	},
+	{
+		"p_source_url": "princeabdul99/insurance_claims/refs/heads/main/datasets/claims_reserves.csv",
+		"p_bronze_folder": "Reserves",
+		"p_bronze_file": "claims_reserves.csv"
+	},
+	{
+		"p_source_url": "princeabdul99/insurance_claims/refs/heads/main/datasets/coverages.csv",
+		"p_bronze_folder": "Coverages",
+		"p_bronze_file": "coverages.csv"
+	},
+	{
+		"p_source_url": "princeabdul99/insurance_claims/refs/heads/main/datasets/participants.csv",
+		"p_bronze_folder": "paticipants",
+		"p_bronze_file": "participants.csv"
+	},
+	{
+		"p_source_url": "princeabdul99/insurance_claims/refs/heads/main/datasets/policies.csv",
+		"p_bronze_folder": "policies",
+		"p_bronze_file": "policies.csv"
+	},
+	{
+		"p_source_url": "princeabdul99/insurance_claims/refs/heads/main/datasets/products.csv",
+		"p_bronze_folder": "products",
+		"p_bronze_file": "products.csv"
+	},
+	{
+		"p_source_url": "princeabdul99/insurance_claims/refs/heads/main/datasets/regions.csv",
+		"p_bronze_folder": "Regions",
+		"p_bronze_file": "regions.csv"
+	},
+	{
+		"p_source_url": "princeabdul99/insurance_claims/refs/heads/main/datasets/state_regions.csv",
+		"p_bronze_folder": "State Regions",
+		"p_bronze_file": "state_regions.csv"
+	}
+]
