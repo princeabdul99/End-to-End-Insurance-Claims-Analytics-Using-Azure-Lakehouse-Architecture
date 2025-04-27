@@ -14,6 +14,8 @@ It showcases the full pipeline — from raw data ingestion to business intellige
 
 ## 🛤️ Solution Architecture
 
+![image_alt](https://github.com/princeabdul99/End-to-End-Insurance-Claims-Analytics-Using-Azure-Lakehouse-Architecture/blob/a0e90e01024ada47a536e63964cc46536b325cdd/docs/architecture.drawio.png)
+
 **1. Raw Data Ingestion (Bronze Layer)**
 - Insurance datasets (claims announcements, payments, reserves, policies, brokers, products, coverages) ingested into Azure Data Lake Storage (raw zone).
 - Data movement orchestrated using Azure Data Factory (ADF) pipelines.
