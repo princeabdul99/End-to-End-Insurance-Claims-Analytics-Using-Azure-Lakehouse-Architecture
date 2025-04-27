@@ -41,22 +41,22 @@ It showcases the full pipeline — from raw data ingestion to business intellige
 
 | Technology                  | Purpose                                                                           |
 |-----------------------------|-----------------------------------------------------------------------------------|
-| Azure Data Factory (ADF)    | Orchestrate ETL workflows and data movement.                                       |
-| Azure Databricks            | Perform data cleaning, transformation, and validation.                             |
-| Azure Synapse Analytics     | Curated SQL data models and optimized query layer.                                 |
-| Azure Data Lake Storage     | Store raw, cleansed, and curated data.                                             |
-| Power BI                    | Build business dashboards and KPIs.                                                |
-| draw.io                     | Create system architecture and pipeline diagrams.                                  |
-| Notion                      | Document project planning, assumptions, and lessons learned.                       |
-| GitHub                      | Version control for ETL scripts, notebooks, and assets                             |
+| Azure Data Factory (ADF)    | Orchestrate ETL workflows and data movement.                                      |
+| Azure Databricks            | Perform data cleaning, transformation, and validation.                            |
+| Azure Synapse Analytics     | Curated SQL data models and optimized query layer.                                |
+| Azure Data Lake Storage     | Store raw, cleansed, and curated data.                                            |
+| Power BI                    | Build business dashboards and KPIs.                                               |
+| draw.io                     | Create system architecture and pipeline diagrams.                                 |
+| Notion                      | Document project planning, assumptions, and lessons learned.                      |
+| GitHub                      | Version control for ETL scripts, notebooks, and assets                            |
 
 ---
 
 ## 🗂️ Data Sources
 The project processes multiple insurance-related datasets:
 
-| Dataset               | Description                                                                                   |
-|-----------------------|-----------------------------------------------------------------------------------------------|
+| Dataset               | Description                                                                              |
+|-----------------------|------------------------------------------------------------------------------------------|
 | Claim Announcements   | Initial reporting of insurance claims.                                                   |
 | Claim Payments        | Payments made toward claim settlements.                                                  |
 | Claim Reserves        | Reserves allocated for pending claims.                                                   |
@@ -82,6 +82,7 @@ Design-and-Deployment-of-a-Fashion-Retail-Data-Warehouse/
 │   ├── data_flow.drawio                # Draw.io file for the data flow diagram
 │   ├── data_models.drawio              # Draw.io file for data models (star schema)
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
+│   ├── project-planning.pdf            # Document project planning. 
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
