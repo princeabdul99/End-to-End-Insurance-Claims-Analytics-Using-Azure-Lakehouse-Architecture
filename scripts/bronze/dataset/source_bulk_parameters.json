@@ -1,0 +1,33 @@
+{
+	"name": "source_bulk_parameters",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "bronze_linked_service",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "claims_bulk.json",
+				"fileSystem": "sourceparameter"
+			}
+		},
+		"schema": {
+			"type": "object",
+			"properties": {
+				"P_source_url": {
+					"type": "string"
+				},
+				"p_bronze_folder": {
+					"type": "string"
+				},
+				"p_bronze_file": {
+					"type": "string"
+				}
+			}
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

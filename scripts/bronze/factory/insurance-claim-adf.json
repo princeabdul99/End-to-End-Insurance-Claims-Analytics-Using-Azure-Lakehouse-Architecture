@@ -1,0 +1,9 @@
+{
+	"name": "insurance-claim-adf",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "89b553b8-7fa0-41a0-b92e-e65e4790c510",
+		"tenantId": "2de55f5c-d003-4d2a-826b-ead2a9f2b9cd"
+	}
+}
